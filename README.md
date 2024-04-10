@@ -1,5 +1,6 @@
 # BeatBlast
 Beat Blast:
+
 Interactive Drum Kit Project
 Beat Blast is an interactive drum kit project built using JavaScript DOM manipulation and event handling. Users can play various drum sounds by either clicking on corresponding buttons or typing specific keys on the keyboard.
 
